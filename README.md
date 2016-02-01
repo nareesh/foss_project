@@ -1,2 +1,2 @@
 # foss_project
-project for foss class
+Project for our foss class.
